@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Version_1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<g id="main">
+	<g>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="284.708" y1="337.385" x2="329.258" y2="247.834"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="269.871" y1="341.728" x2="333.781" y2="215.024"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="252.697" y1="343.002" x2="335.703" y2="185.689"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="238.669" y1="341.075" x2="332.898" y2="161.478"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="225.821" y1="337.385" x2="326.311" y2="146.232"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="208.575" y1="333.909" x2="318.819" y2="131.371"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="195.708" y1="330.074" x2="310.559" y2="122.069"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="183.902" y1="325.642" x2="299.036" y2="111.448"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="173.041" y1="321.197" x2="288.856" y2="103.378"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="162.787" y1="314.226" x2="278.604" y2="96.106"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="151.157" y1="309.602" x2="267.452" y2="89.574"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="138.059" y1="302.259" x2="255.612" y2="82.034"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="129.57" y1="291.144" x2="244.829" y2="76.287"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="117.663" y1="279.458" x2="231.15" y2="69.694"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="108.823" y1="266.695" x2="217.133" y2="63.71"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="98.168" y1="253.735" x2="203.231" y2="58.597"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="88.183" y1="238.631" x2="186.486" y2="53.676"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="77.014" y1="222.784" x2="170.132" y2="50.782"/>
+		<line fill="none" stroke="#000000" stroke-width="3.3174" x1="72.03" y1="205.166" x2="154.355" y2="49.929"/>
+	</g>
+	
+		<path fill="none" stroke="#000000" stroke-width="4.93" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M152.443,50.498c-41.796,6.65-65.42,102.139-76.318,133.225c-10.922,31.089-3.648,31.089,10.898,53.283
+		c14.525,22.219,41.797,64.401,76.319,79.943c34.523,15.547,103.589,42.191,130.836,13.322
+		c27.274-28.864,56.345-139.898,32.725-186.529C303.28,97.131,194.238,43.826,152.443,50.498"/>
+	<rect x="170.408" y="139.5" fill="#FFFFFF" width="74.421" height="39.241"/>
+	<text transform="matrix(1 0 0 1 179.3882 169.2705)" font-family="sans-serif" font-size="25.157">LAA</text>
+</g>
+<g id="template" display="none">
+	<rect x="170.408" y="180.549" display="inline" fill="#FFFFFF" width="74.421" height="47.444"/>
+	<text transform="matrix(1 0 0 1 182.813 201.9863)" display="inline" enable-background="new    "><tspan x="0" y="0" font-family="sans-serif" font-size="14">Sector 1 </tspan><tspan x="0" y="16.8" font-family="sans-serif" font-size="14">modifier</tspan></text>
+</g>
+<g id="example" display="none">
+	<rect x="170.619" y="180.715" display="inline" fill="#FFFFFF" width="74.21" height="45.285"/>
+	
+		<path display="inline" fill="none" stroke="#000000" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M239.75,203.374c0,6.027-4.886,10.913-10.914,10.913h-41.797c-6.027,0-10.914-4.886-10.914-10.913l0,0
+		c0-6.027,4.886-10.914,10.914-10.914h41.797C234.864,192.46,239.75,197.347,239.75,203.374L239.75,203.374z"/>
+</g>
+</svg>

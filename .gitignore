@@ -153,6 +153,8 @@ activemq-data/
 .env
 .envrc
 .venv
+.tools/
+output/
 env/
 venv/
 ENV/
@@ -207,6 +209,9 @@ cython_debug/
 # .vscode/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
+
+# Licensed/reference standards are local research inputs, not repository content.
+references/*.pdf
 
 # Ruff stuff:
 .ruff_cache/

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Version_1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<g id="main" transform="translate(-55 -50)">
+	<path fill="none" stroke="#000000" stroke-width="5" d="M262.377,195.323c81.186,0,146-95.725,145,53c-1,148.724-70.814,66-152,66
+		c-81.186,0-148,96.725-142-66C119.377,85.598,181.192,195.323,262.377,195.323z"/>
+</g>
+<g id="template" display="none">
+	<g id="varA" display="inline">
+		<rect x="146.5" y="183.323" fill="none" stroke="#000000" stroke-width="2" width="105" height="27"/>
+		<text transform="matrix(1 0 0 1 150.2759 204.3223)" font-family="sans-serif" font-size="21">Modifier 1</text>
+	</g>
+</g>
+<g id="example" display="none">
+	<text id="varWe" transform="matrix(1 0 0 1 196.3774 280.3223)" display="inline" font-family="sans-serif" font-size="21"> </text>
+	<text id="varHe" transform="matrix(1 0 0 1 201.377 138.3232)" display="inline" font-family="sans-serif" font-size="21"> </text>
+	<text id="varNe_1_" transform="matrix(1 0 0 1 343.377 199.3232)" display="inline" font-family="sans-serif" font-size="21"> </text>
+	<text id="varNe" transform="matrix(1 0 0 1 52.3774 202.3223)" display="inline" font-family="sans-serif" font-size="21"> </text>
+	<g id="varAe" display="inline">
+		<circle fill="none" stroke="#808080" stroke-width="5" cx="109.082" cy="201.383" r="22"/>
+		<circle fill="none" stroke="#808080" stroke-width="5" cx="203.5" cy="201.383" r="22"/>
+		<circle fill="none" stroke="#808080" stroke-width="5" cx="296.902" cy="201.383" r="22"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,32 @@
+# Add one [[document]] entry for each locally held reference file.
+
+[[document]]
+file = "APP-6A-Military-Symbols-Land-Based-Systems-1998.pdf"
+title = "APP-6A Military Symbols for Land Based Systems"
+edition = "APP-6A"
+publication_date = "1998-10"
+source_url = "https://www.mpsotc.gr/dat/05CB6DCD/file.pdf"
+retrieved_date = "2026-11-21"
+sha256 = "73bd6a4c1d8b00066dc9a2c251fcc162fa2e5f4574a2f7e7aab4cd4851e4ba2e"
+bytes = 3039115
+pages = 403
+pdf_version = "1.3"
+redistributable = false
+notes = "Cover states that release outside NATO requires prior NATO approval. Historical reference only; not the APP-06(E) implementation target."
+
+[[asset]]
+file = "Military-Symbology-Guide.svg"
+title = "Military Symbology Guide"
+description = "Multilingual Canadian and NATO military symbology quick-reference chart"
+author = "CdnMCG"
+source_page = "https://commons.wikimedia.org/wiki/File:Military_Symbology_Guide.svg"
+source_url = "https://upload.wikimedia.org/wikipedia/commons/9/99/Military_Symbology_Guide.svg"
+source_revision_date = "2023-05-13"
+retrieved_date = "2026-11-21"
+sha256 = "93b3ab4519226d7387ef027ac1e79cb9735945eca57174dae9041d839450d504"
+bytes = 321368
+media_type = "image/svg+xml"
+license = "CC-BY-SA-4.0"
+redistributable = true
+notes = "Author's own work, not an official NATO standard. Attribution and share-alike terms apply to redistribution and adaptations."
+

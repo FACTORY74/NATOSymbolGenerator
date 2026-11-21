@@ -1,0 +1,13 @@
+# Runtime dependencies
+# Compatible release pins keep setup repeatable while allowing patch-level fixes.
+fastapi~=0.165.0
+uvicorn[standard]~=0.54.0
+typer~=0.29.2
+cachetools~=8.0.2
+defusedxml~=0.7.1
+
+# Development and API contract testing
+httpx~=0.28.1
+pytest~=9.2.0
+pytest-cov~=7.1.0
+ruff~=0.17.6

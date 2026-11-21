@@ -1,0 +1,36 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "nato-symbol-generator"
+version = "0.1.0"
+description = "Compose military symbol SVGs from 20-digit SIDCs or constituent names"
+readme = "README.md"
+requires-python = ">=3.15"
+license = { file = "LICENSE" }
+dependencies = [
+    "cachetools~=8.0.2",
+    "defusedxml~=0.7.1",
+    "fastapi~=0.165.0",
+    "typer~=0.29.2",
+    "uvicorn[standard]~=0.54.0",
+]
+
+[project.scripts]
+nato-symbol = "nato_symbol_generator.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/nato_symbol_generator"]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py315"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+

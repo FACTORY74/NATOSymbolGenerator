@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Version_1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="612px" height="792px" viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<g id="octagon" display="none">
+	<g id="outFrame" display="inline">
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="220" y1="309.5" x2="306" y2="273"/>
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="306" y1="273" x2="390.5" y2="309.5"/>
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="390.5" y1="309.5" x2="427" y2="396"/>
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="427" y1="396" x2="390.5" y2="482.5"/>
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="390.5" y1="482.5" x2="306" y2="516"/>
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="306" y1="516" x2="220" y2="482.5"/>
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="220" y1="482.5" x2="183" y2="396"/>
+		<line fill="none" stroke="#0000FF" stroke-width="2" x1="183" y1="396" x2="220" y2="309.5"/>
+	</g>
+	
+		<line id="bottom" display="inline" fill="none" stroke="#0000FF" stroke-width="2" x1="203.966" y1="445.015" x2="406.199" y2="445.295"/>
+	
+		<line id="top" display="inline" fill="none" stroke="#0000FF" stroke-width="2" x1="203.966" y1="346.985" x2="406.199" y2="346.705"/>
+</g>
+<g id="mod2">
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="5" x1="259.007" y1="478.984" x2="353.159" y2="478.984"/>
+			<g>
+				<polygon points="261.415,487.212 247.167,478.984 261.415,470.757 				"/>
+			</g>
+			<g>
+				<polygon points="350.752,487.212 365,478.984 350.752,470.757 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#000000" stroke-width="5" x1="305.582" y1="500.924" x2="305.582" y2="459.98"/>
+			<g>
+				<polygon points="313.81,498.517 305.582,512.765 297.354,498.517 				"/>
+			</g>
+			<g>
+				<polygon points="313.81,462.388 305.582,448.14 297.354,462.388 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
