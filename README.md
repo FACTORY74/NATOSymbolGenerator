@@ -3,6 +3,10 @@
 Resolve 20-digit military Symbol Identification Codes (SIDCs) from constituent names
 and compose their SVG fragments through a Python CLI or REST API.
 
+![Test harness output showing generated military symbols](./_progress/2026-11-21%20-%20short.png)
+
+_Test harness output from 21 November 2026._
+
 The current asset catalogue originates from Esri's archived JMSML
 `2525d1-svgs` branch. It targets MIL-STD-2525D Change 1 and is an implementation seed,
 not yet a claim of complete APP-06(E) conformance.
